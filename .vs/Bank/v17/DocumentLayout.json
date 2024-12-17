@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D4A988-1E29-4C4D-949B-CC6A00A3C1A5}|Bank\\Bank.csproj|D:\\repos\\Bank\\bank\\classes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D4A988-1E29-4C4D-949B-CC6A00A3C1A5}|Bank\\Bank.csproj|solutionrelative:bank\\classes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D4A988-1E29-4C4D-949B-CC6A00A3C1A5}|Bank\\Bank.csproj|D:\\repos\\Bank\\bank\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D4A988-1E29-4C4D-949B-CC6A00A3C1A5}|Bank\\Bank.csproj|solutionrelative:bank\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D4A988-1E29-4C4D-949B-CC6A00A3C1A5}|Bank\\Bank.csproj|D:\\repos\\Bank\\bank\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D4A988-1E29-4C4D-949B-CC6A00A3C1A5}|Bank\\Bank.csproj|solutionrelative:bank\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D4A988-1E29-4C4D-949B-CC6A00A3C1A5}|Bank\\Bank.csproj|d:\\repos\\bank\\bank\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79D4A988-1E29-4C4D-949B-CC6A00A3C1A5}|Bank\\Bank.csproj|solutionrelative:bank\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D4A988-1E29-4C4D-949B-CC6A00A3C1A5}|Bank\\Bank.csproj|d:\\repos\\bank\\bank\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{79D4A988-1E29-4C4D-949B-CC6A00A3C1A5}|Bank\\Bank.csproj|solutionrelative:bank\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D4A988-1E29-4C4D-949B-CC6A00A3C1A5}|Bank\\Bank.csproj|D:\\repos\\Bank\\bank\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79D4A988-1E29-4C4D-949B-CC6A00A3C1A5}|Bank\\Bank.csproj|solutionrelative:bank\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 270,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\repos\\Bank\\Bank\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bank\\MainWindow.xaml",
+              "ToolTip": "D:\\repos\\Bank\\Bank\\MainWindow.xaml",
+              "RelativeToolTip": "Bank\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T10:33:45.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\repos\\Bank\\Bank\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Bank\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\repos\\Bank\\Bank\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Bank\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:33:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\repos\\Bank\\Bank\\Classes\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Bank\\Classes\\BankAccount.cs",
+              "ToolTip": "D:\\repos\\Bank\\Bank\\Classes\\BankAccount.cs",
+              "RelativeToolTip": "Bank\\Classes\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:17:11.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\repos\\Bank\\Bank\\Classes\\Client.cs",
+              "RelativeDocumentMoniker": "Bank\\Classes\\Client.cs",
+              "ToolTip": "D:\\repos\\Bank\\Bank\\Classes\\Client.cs",
+              "RelativeToolTip": "Bank\\Classes\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:16:56.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 130,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\repos\\Bank\\Bank\\App.xaml",
+              "RelativeDocumentMoniker": "Bank\\App.xaml",
+              "ToolTip": "D:\\repos\\Bank\\Bank\\App.xaml",
+              "RelativeToolTip": "Bank\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T12:14:31.295Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\repos\\Bank\\Bank\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bank\\MainWindow.xaml",
+              "ToolTip": "D:\\repos\\Bank\\Bank\\MainWindow.xaml",
+              "RelativeToolTip": "Bank\\MainWindow.xaml",
+              "ViewState": "AQIAAG4AAAAAAAAAAADgv30AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T11:21:57.582Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
